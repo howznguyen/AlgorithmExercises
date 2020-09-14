@@ -23,5 +23,3 @@ function domino(n, m) {
     }
     return count;
 }
-
-console.log(domino(5, 2));
