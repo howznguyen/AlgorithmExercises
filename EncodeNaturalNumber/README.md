@@ -8,7 +8,7 @@ Một cách mã hoá tự nhiên M có nhiều chữ số xuất hiện liên ti
 Cho một số tự nhiên N có không quá 200 chữ số. Số N là một trong các số sinh ra từ số M nào đó trong cách mã hoá trên. Biết rằng số M không là kết quả mã hoá của bất kỳ của một số tự nhiên nào (kể cả chính nó), không chứa nhiều hơn 9 chữ số liên tiếp giống nhau và các số sinh ra từ M cho tới khi gặp số N đều không qua 200 chữ số.
 
 ## Ví dụ:
-- `decodeNaturalNumber(2132113) = 113`
+- `decodeNaturalNumber(21322113) = 113`
 
 ## Đầu vào/Đầu ra:
 
