@@ -10,5 +10,3 @@ def decodeNaturalNumber(n):
             newNum += decodeNumber[i+1] * int(decodeNumber[i])
         decodeNumber = newNum
     return decodeNumber
-
-print(decodeNaturalNumber(21322113))
