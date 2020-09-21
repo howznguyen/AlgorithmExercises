@@ -5,7 +5,6 @@ def decodeNaturalNumber(n):
         newNum = ""
         if count > 200:
             return False
-        num = decodeNumber.split()
         for i in range(0, len(decodeNumber),2):
             newNum += decodeNumber[i+1] * int(decodeNumber[i])
         decodeNumber = newNum
