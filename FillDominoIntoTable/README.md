@@ -1,5 +1,7 @@
 # Bài Tập Lấp Đầy Bảng Bằng Domino
 
+> Author: [zynsdev](https://codelearn.io/profile/136658)
+
 ## Mô Tả Bài Toán
 Bạn được cho một bảng có kích thước `MxN` và vô số các thanh domino có kích thức `2x1`. Bạn có thể xoay các thanh domino. Có thể đặt nhiều nhất bao nhiêu thanh domino lên bảng thỏa mãn yêu cầu:
 

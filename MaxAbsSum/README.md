@@ -1,5 +1,7 @@
 # Bài Tập Tìm Tổng Trị Đối Lớn Nhất Trong Mảng
 
+> Author: [hello5423](https://codelearn.io/profile/447355)
+
 ## Mô Tả Bài Toán
 Cho một mảng `arr` các số nguyên. Hãy tìm tổng trị tuyệt đối lớn nhất của các hoán vị của mảng đã cho bằng cách tìm tổng các trị tuyệt đối giữa hiệu các phần tử kề nhau ở trong một vòng tròn.
 

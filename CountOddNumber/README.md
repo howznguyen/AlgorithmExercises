@@ -1,5 +1,7 @@
 # Bài Tập Đếm Số Lẻ Trong Khoảng Nhất Định
 
+> Author: [lamvh](https://codelearn.io/profile/1723947)
+
 ## Mô Tả Bài Toán
 Hôm nay, Dũng được học về số chẵn, số lẻ. Dũng có bài tập này: Dũng có 2 số nguyên không âm `1` và `r` `(l <= r)`. Hãy đếm số lượng số lẻ trong đoạn `l` và `r` (bao gồm l và r).
 

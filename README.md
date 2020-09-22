@@ -1,4 +1,7 @@
 # Algorithm Exercises
+> Math Problems Helping You Practice Algorithm
+
+**Collector: chenjiinguyen**
 
 ![Algorithm Exercises](https://i.imgur.com/trrbLVm.png)
 

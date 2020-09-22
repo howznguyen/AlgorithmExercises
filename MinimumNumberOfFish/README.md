@@ -1,5 +1,7 @@
 # Bài Toán Cá Lớn Nuốt Cá Bé
 
+> Author: [phamcham](https://codelearn.io/profile/70939)
+
 ## Mô Tả Bài Toán
 Trong game cá lớn nuốt cá bé, ban đầu, con cá có trọng lượng là `k`, nó chỉ có khả năng ăn thịt những con có trọng lượng bé hơn hoặc bằng trọng lượng của nó. Sau khi ăn thịt một con cá, trọng lượng của nó sẽ tăng thêm một lượng bằng trọng lượng của con cá mà nó ăn được. Cụ thể, nếu lấy `i` sao cho `w[i] ≤ k` sau đó `k = k + w[i]`.
 
