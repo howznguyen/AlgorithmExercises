@@ -14,4 +14,4 @@
 - [Minimum Number Of Fish](https://github.com/chenjiinguyen/AlgorithmExercises/tree/master/MinimumNumberOfFish)
 
 ## Medium
-
+- [Jug Water](https://github.com/chenjiinguyen/AlgorithmExercises/tree/master/JugWater)
