@@ -1,5 +1,8 @@
 # Bài Tập Chia Kẹo
 
+> Author: [tdkhoa2018](https://codelearn.io/profile/38985)
+
+
 ## Mô Tả Bài Toán
 Trong giấc mơ, bạn đang ở một hành tinh nào đó. Trước mặt bạn là đám trẻ xếp thành một hàng, chìa tay sẵn sàng nhận kẹo từ bạn, bạn phải đảm bảo rằng mỗi đứa trẻ phải được nhận ít nhất 1 cây kẹo. Nếu có hai đứa trẻ đứng cạnh nhau nhưng độ tuổi khác nhau thì đứa lớn hơn phải được chia nhiều hơn. Vì xót thương cho cái hầu bao của mình nên bạn phải tính toán kĩ càng làm sao mua **ít kẹo nhất** có thể nhưng vẫn chia đủ cho tất cả.
 
