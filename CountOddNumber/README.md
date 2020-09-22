@@ -13,6 +13,6 @@ Hôm nay, Dũng được học về số chẵn, số lẻ. Dũng có bài tập
    - 0.6s với Java và C#
    - 0.8s với Python, Go và JavaScript
 - **[Đầu vào]Long, Long**\
-  `1 <= l <= r <=10<sub>18</sub>`
+  **1 <= l <= r <=10<sub>18</sub>**
 - **[Đầu ra] Long** \
   Số lượng số lẻ trong đoạn l , r
