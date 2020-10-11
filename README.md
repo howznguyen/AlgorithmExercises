@@ -6,6 +6,7 @@
 ![Algorithm Exercises](https://i.imgur.com/trrbLVm.png)
 
 ## Basic
+- [Cat And Mouse](https://github.com/chenjiinguyen/AlgorithmExercises/tree/master/CatAndMouse)
 - [Second Max](https://github.com/chenjiinguyen/AlgorithmExercises/tree/master/SecondMax)
 - [Count Odd Number](https://github.com/chenjiinguyen/AlgorithmExercises/tree/master/CountOddNumber)
 - [Fill Domino Into Table](https://github.com/chenjiinguyen/AlgorithmExercises/tree/master/FillDominoIntoTable)
