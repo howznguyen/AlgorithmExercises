@@ -5,7 +5,7 @@
 ## Mô Tả Bài Toán
 Có hai chú mèo đứng ở hai vị trí bất kỳ đang nhăm nhe một con chuột, cả hai đều muốn bắt được con chuột này. Được biết tốc độ của hai chú mèo đều tương đương nhau và xuất phát cùng lúc, hãy cho biết chú mèo nào sẽ bắt được con chuột trước.
 
-##Chú ý:
+## Chú ý:
 - Nếu cả hai chú mèo đều bắt được chú chuột cùng lúc, chú chuột sẽ thoát được, khi đó hãy trả về `"The mouse has escaped"`
 - Vị trí của các con vật được thể hiện bằng các mốc giá trị trên trục số.
 
